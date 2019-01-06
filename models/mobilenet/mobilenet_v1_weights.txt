@@ -1,0 +1,5 @@
+input: mobilenet_v1.caffemodel (renamed)
+https://github.com/shicai/MobileNet-Caffe/raw/master/mobilenet.caffemodel
+
+output: mobilenet_v1_caffe2tf.npy
+https://drive.google.com/uc?export=view&id=1Adtcl5kZBOL34Ezs8-JwGcnHHKp_O0dv

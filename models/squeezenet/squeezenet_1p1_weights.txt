@@ -1,0 +1,6 @@
+input: squeezenet_1p1.caffemodel (renamed)
+https://github.com/DeepScale/SqueezeNet/raw/master/SqueezeNet_v1.1/squeezenet_v1.1.caffemodel
+
+output: squeezenet_1p1_caffe2tf.npy
+https://drive.google.com/uc?export=view&id=10NKyi6jtcNNLTh19mKgrdgosyvNSRBkv
+

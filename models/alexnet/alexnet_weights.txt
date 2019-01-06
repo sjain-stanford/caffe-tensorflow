@@ -1,0 +1,5 @@
+input: alexnet.caffemodel
+http://dl.caffe.berkeleyvision.org/bvlc_alexnet.caffemodel
+
+output: alexnet_caffe2tf.npy
+https://drive.google.com/uc?export=view&id=1iWmzvg-4syCqi4ZvwEWzJFtNhMABNVFB
